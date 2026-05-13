@@ -74,10 +74,10 @@ I combine creativity with strategy to craft visually engaging and user-focused e
 
 ---
 
-# 📈 Most Used Languages
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RemzyArts&layout=compact&theme=github_dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=RemzyArts&theme=dark&hide_border=false&border_radius=4.5" />
 </p>
 
 ---
