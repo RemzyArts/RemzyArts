@@ -63,13 +63,13 @@ I combine creativity with strategy to craft visually engaging and user-focused e
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RemzyArts&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RemzyArts&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RemzyArts&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=RemzyArts&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RemzyArts&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RemzyArts&layout=compact&theme=tokyonight&hide_border=true&count_private=true"/>
 </p>
 
 ---
