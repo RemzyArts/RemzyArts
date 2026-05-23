@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Rhema Marcus A.K.A RemzyArts
+# 👋 Hey, I'm Rhema Marcus (RemzyArts)
 
 ### Brand Designer | UI/UX Designer | Web Developer
 
