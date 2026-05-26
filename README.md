@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Rhema Marcus (RemzyArts)
 
-### Brand Designer | UI/UX Designer | Web Developer
+### Brand Designer | UI/UX Designer | Web Developer.
 
 I'm a creative designer and frontend developer from Nigeria passionate about building clean, modern, and impactful digital experiences.
 
